@@ -1,6 +1,5 @@
 # Getting Started with the React Sidebar Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to create and configure the Syncfusion React Sidebar component in a React application.
 
 A quick start project that shows how to create and configure the Syncfusion React Sidebar component in a React project. This project also includes example code to open and close the Sidebar manually, change the Sidebar position, and integrate the ListView component inside the Sidebar.
